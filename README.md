@@ -39,5 +39,5 @@ project-name/
 
 ## Contact
 
-LinkedIn: add-your-link-here
-Email: add-your-email-here
+LinkedIn:Felix Obuya 
+Email:thusfelix@gmail.com 
