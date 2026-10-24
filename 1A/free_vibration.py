@@ -32,4 +32,8 @@ plt.title("Free vibration: effect of damping ratio")
 plt.legend()
 plt.grid(True)
 plt.savefig("1A/free_response.png", dpi=150)
+<<<<<<< HEAD
 plt.show()
+=======
+plt.show()
+>>>>>>> c99219dedb3f7ea69fff3d26b249818cc9932f9f
